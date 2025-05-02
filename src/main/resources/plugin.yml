@@ -6,7 +6,7 @@ authors: [ Sh4rkieX11 ]
 description: The LagTroll plugin to make minecraft lag for a person send the command /troll <player name> under the player (5 blocks below) 10,000 invisible armorastands will spawn causing lags or crashing from the game
 commands:
   troll:
-    description: Creates 10,000 invisible armorstands and places them underneath the player.
+    description: Creates 10,000 invisible armorstands and places them under player.
     usage: /<troll> <player-name>
 
   detroll:
