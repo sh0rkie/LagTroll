@@ -5,7 +5,7 @@ LagTroll Plugin is a plugin for the Minecraft server on the Bukkit/Spigot platfo
 # ⚠️⚠️⚠️DISCLAIMER
 THE PLUGIN MAY CAUSE A LARGE LOAD ON YOUR PC AND SERVER. WE STRONGLY DO NOT RECOMMEND USING THE PLUGIN ON WEAK DEVICES
 
-## ↕⏬Installation
+## ⏬Installation
 
 1. Download the latest release of the plugin.
 2. Place the `.jar` file to the 'plugins` folder of your server.
