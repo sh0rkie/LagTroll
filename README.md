@@ -1,11 +1,11 @@
-# LagTroll Plugin
+# 🧱LagTroll Plugin
 
 LagTroll Plugin is a plugin for the Minecraft server on the Bukkit/Spigot platform that allows you to troll players by creating a 10,000 of invisible ArmorStands under their location.
 
-# DISCLAIMER
+# ⚠️⚠️⚠️DISCLAIMER
 THE PLUGIN MAY CAUSE A LARGE LOAD ON YOUR PC AND SERVER. WE STRONGLY DO NOT RECOMMEND USING THE PLUGIN ON WEAK DEVICES
 
-## Installation
+## ↕⏬Installation
 
 1. Download the latest release of the plugin.
 2. Place the `.jar` file to the 'plugins` folder of your server.
